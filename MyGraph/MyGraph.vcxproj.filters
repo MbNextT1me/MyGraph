@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\MyGraph\MyGraph\Source.cpp">
+    <ClCompile Include="Source.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\MyGraph\MyGraph\Graph.cpp">
+    <ClCompile Include="Graph.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\MyGraph\MyGraph\Graph.h">
+    <ClInclude Include="Graph.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
